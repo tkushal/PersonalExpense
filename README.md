@@ -11,6 +11,13 @@ These expenses can be categorized based upon
 1. Investments [Provident Funds, Insurance, Stocks]
 2. Miscellaneous [Household expensed, fuel]
 
+
+
+PERSONAL FINANCIAL EXPENSE
+
+![image](https://user-images.githubusercontent.com/40695609/140491227-bddaae5e-e221-4892-abe0-dd5ac2e05cd0.png)
+
+
 This project is based on the financial expenses for a period, in which the expenses is seggregated into different types.
 Analysis is been done to know the amount of positive expenses {investments} or negative expenses {miscellaneous} etc.
 
